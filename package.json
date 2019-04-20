@@ -8,7 +8,7 @@
     "test:watch": "mocha src/tests/*.js -w"
   },
   "keywords": [],
-  "author": "André Luiz Pedr Botelho",
+  "author": "André Luiz Pedro Botelho",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.5.1",
