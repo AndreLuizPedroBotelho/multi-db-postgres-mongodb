@@ -2,6 +2,8 @@
 
 2- Executar "docker-compose up -d"
 
-3- Executar npm install
+3- Executar npm instal
+
+4- npm testl
 
 
